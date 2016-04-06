@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/bike"
+            android:checked="false"
+            android:title="@string/bike"
+            android:icon="@drawable/bike"/>
+        <item
+            android:id="@+id/car"
+            android:checked="false"
+            android:title="@string/car"
+            android:icon="@drawable/car" />
+        <item
+            android:id="@+id/dress"
+            android:checked="false"
+            android:title="@string/dress"
+            android:icon="@drawable/dress" />
+        <item
+            android:id="@+id/fruit"
+            android:checked="false"
+            android:title="@string/fruit"
+            android:icon="@drawable/fruit" />
+        <item
+            android:id="@+id/mobile"
+            android:checked="false"
+            android:title="@string/mobile"
+            android:icon="@drawable/phone"/>
+    </group>
+</menu>

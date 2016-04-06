@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kcart</string>
+    <string name="bike">Bike</string>
+    <string name="car">Car</string>
+    <string name="fruit">Fruit</string>
+    <string name="dress">Dress</string>
+    <string name="mobile">Mobile</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="emailid">skarthikeyan018@gmail.com</string>
+    <string name="name">Karthikeyan</string>
+</resources>
