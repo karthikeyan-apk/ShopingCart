@@ -38,6 +38,8 @@ public class MainActivity extends AppCompatActivity {
         mfm = getSupportFragmentManager();
         mft= mfm.beginTransaction();
         mft.add(R.id.continer, new GenralFragment("bike"));
+        mtoolbar.setTitle("bike");
+
         mft.commit();
 
         mnavigationview = (NavigationView) findViewById(R.id.navigation_view);
